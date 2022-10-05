@@ -1,6 +1,8 @@
-# task1 Algoriza Internship
+# SmartReminder
 
-task1 by amgad mosad behairy 75
+SmartReminder app by using BLoC as state management, sqlflite, Bloc Design pattern , Shared preferences , local notification
+
+task 1 Algoriza Internship
 
 ## AppPhotos
 
